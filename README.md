@@ -1,1 +1,1 @@
-# MAT421
+# MAT421 Applied Computational Methods
